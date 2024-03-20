@@ -1,0 +1,25 @@
+{
+  "name": "manage-files",
+  "version": "1.0.0",
+  "description": "A file management framework that allows the user to CRUD files easily.",
+  "main": "index.js",
+   "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "@babel/preset-typescript": "^7.23.3",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.11"
+  }
+}
